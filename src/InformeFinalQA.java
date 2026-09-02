@@ -5,7 +5,7 @@ public class InformeFinalQA {
 
         HashMap<String, String> resultados = new HashMap<>();
 
-        System.out.println("===== INFORME FINAL QA - ESTADO DE PRUEBAS =====");
+        System.out.println("===== INFORME FINAL QA - INFORME DE RESULTADOS DE PRUEBAS =====");
 
         resultados.put("Login correcto", "OK");
         resultados.put("Login incorrecto", "KO");
